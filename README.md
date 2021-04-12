@@ -1,1 +1,5 @@
-# Bus-Booking-Management-System-with-php-mysql
+# Tanvir Rezwan Rafi
+B.sc in CSE (2023)
+Daffodil International University 
+Dhamrai,Dhaka,Bangladesh
+Tanvir.rafi18@gmail.com
